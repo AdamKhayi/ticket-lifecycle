@@ -38,10 +38,10 @@ This project is going to demonstrate the lifecycle of a ticket from creation to 
 <h3 align="center">Ticket assignment</h3>
 <br />
 <p>
-  Support agent John Doe logs in (I typed in the wrong password by accident so please ignore "Acess Denied"):
+  Support agent John Doe logs in:
 </p>
 <p>
-  <img src="https://i.imgur.com/r9JrKAp.png" height="75%" width="100%" alt="Support agent login"/>
+  <img src="https://i.imgur.com/nv5vfsh.png" height="75%" width="100%" alt="Support agent login"/>
 </p>
 <br />
 <br />
